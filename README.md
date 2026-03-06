@@ -1,20 +1,22 @@
 <div align="center">
 
-<!-- 🏰 HERO BANNER : THE GREAT HALL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Navneet%20Singh&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Gryffindor%20%7C%20Forging%20Magic%20Through%20Code&descAlign=50&descAlignY=64&color=0:9d0b0b,50:ff8c1a,100:ffcc33&animation=fadeIn" />
+<!-- 🏰 MAGIC HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Navneet%20Singh&fontSize=60&fontColor=FFD700&fontAlign=50&fontAlignY=40&desc=Gryffindor%20%7C%20Forging%20Magic%20Through%20Code&descAlign=50&descAlignY=65&color=0:4b0000,25:7a0000,50:b11226,75:ff8c00,100:ffd700&animation=twinkling" />
 
-<!-- ✨ TYPING SPELL -->
+<!-- ✨ MAGIC TYPING SPELL -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=27&duration=3200&pause=1200&color=FFCC33&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=🦁+Proud+Gryffindor.;🧙‍♂️+B.Tech+CSE+(AI)+Student.;📜+Learning+DSA,+Systems,+Open+Source.;⚔️+Bravery+Before+Comfort.;🔥+One+Commit+Closer+to+Mastery." />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3200&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🦁+Proud+Gryffindor;🧙‍♂️+B.Tech+CSE+(AI)+Student;📜+Learning+DSA,+Systems,+Open+Source;⚔️+Bravery+Before+Comfort;🔥+One+Commit+Closer+to+Mastery" />
 </a>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+</div>
 
-<img align="right" width="330" src="https://media.tenor.com/jYVZ2U3W2tAAAAAC/harry-potter-spell.gif"/>
+<img align="right" width="360" src="https://media.tenor.com/jYVZ2U3W2tAAAAAC/harry-potter-spell.gif"/>
 
-## 🦁 Gryffindor Scroll of Identity
+## 📜 Gryffindor Scroll of Identity
 
 **🧙‍♂️ Name**        : Navneet Singh  
 **🏰 House**         : Gryffindor  
@@ -29,12 +31,19 @@
 **⚔️ Traits**       : Courageous • Curious • Persistent  
 **🛤️ Path**         : Open Source • Full Stack • Systems  
 
-> **🦁 Gryffindor Creed**  
-> *“It takes a great deal of bravery to stand up and code.”*
+> ### 🦁 Gryffindor Creed  
+> *“It takes a great deal of bravery to stand up to bugs, but just as much to stand up to your own code.”*
 
 <br clear="right"/>
+<div align="center">
 
----
+✨ ───────────────────────── ⚡ ───────────────────────── ✨
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=ffcc33" />
@@ -44,123 +53,153 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/navneet-singh7307/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Wizarding%20Profile-9d0b0b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Hogwarts%20Network-b11226?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=ff8c1a" />
 </div>
 
-## 📚 Spellbook of Mastery 🪄
-_Animated Arcane Skills_
+## ⚔️ Wizard Training
+
+📖 Mastering **Data Structures & Algorithms**  
+🪄 Learning **Django & Backend Systems**  
+⚡ Exploring **Open Source Contributions**  
+🏗️ Building **Full Stack Applications**
+
+## 📚 Spellbook of Mastery
+### 🪄 Arcane Technologies I Practice
 
 <div align="center">
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+</div>
 
-### ⚔️ Core Languages
+### 🧠 Core Languages
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>
 <b>Java</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>
 <b>Python</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>
 <b>JavaScript</b>
 </td>
+
 </tr>
 </table>
+<br>
 
----
+<hr style="border:0.6px solid #30363d; width:80%;">
+
+<br>
 
 ### 🎨 Frontend Enchantments
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>
 <b>HTML</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/foD7Br5iG6mQg/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>
 <b>CSS</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>
 <b>React</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/><br>
 <b>Next.js</b>
 </td>
+
 </tr>
 </table>
+<br>
 
----
+<hr style="border:0.6px solid #30363d; width:80%;">
+
+<br>
 
 ### 🏰 Backend & Ancient Tomes
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60"/><br>
 <b>Django</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br>
 <b>Node.js</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>
 <b>PostgreSQL</b>
 </td>
+
 </tr>
 </table>
+<br>
 
----
+<hr style="border:0.6px solid #30363d; width:80%;">
+
+<br>
 
 ### 🧪 Tools & Potions
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>
 <b>Git</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>
 <b>Docker</b>
 </td>
+
 </tr>
 </table>
 
----
 
 </div>
 
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=ffc500" />
 </div>
+
 
 ## 📊 Gryffindor Activity Chronicle
 
@@ -175,10 +214,19 @@ _Animated Arcane Skills_
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+</div>
 
-## 🪄 Words from the Great Hall (5 Voices)
+## 🐍 Nagini Devours My Commits
 
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## 🏰 Wisdom from the Great Hall
 > **🧙‍♂️ Albus Dumbledore**  
 > *“It is our choices, far more than our abilities, that define our codebases.”*
 
@@ -194,9 +242,11 @@ _Animated Arcane Skills_
 > **🖤 Severus Snape**  
 > *“Control your variables. Discipline your logic.”*
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+</div>
 
-## 🏁 The Beginning of the Legend
+## ⚡ The Beginning of the Legend
 
 🕯️ The spells will sharpen.  
 📚 The knowledge will deepen.  
