@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/navneat-codes/navneat-codes/main/banner.png" width="100%" />
+
+</div>
+<div align="center">
+
 <!-- 🏰 MAGIC HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Navneet%20Singh&fontSize=60&fontColor=FFD700&fontAlign=50&fontAlignY=40&desc=Gryffindor%20%7C%20Forging%20Magic%20Through%20Code&descAlign=50&descAlignY=65&color=0:4b0000,25:7a0000,50:b11226,75:ff8c00,100:ffd700&animation=twinkling" />
 
