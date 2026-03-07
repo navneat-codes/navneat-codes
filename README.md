@@ -4,10 +4,7 @@
 
 </div>
 <div align="center">
-
-<!-- 🏰 MAGIC HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Navneet%20Singh&fontSize=60&fontColor=FFD700&fontAlign=50&fontAlignY=40&desc=Gryffindor%20%7C%20Forging%20Magic%20Through%20Code&descAlign=50&descAlignY=65&color=0:4b0000,25:7a0000,50:b11226,75:ff8c00,100:ffd700&animation=twinkling" />
-
+  
 <!-- ✨ MAGIC TYPING SPELL -->
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3200&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🦁+Proud+Gryffindor;🧙‍♂️+B.Tech+CSE+(AI)+Student;📜+Learning+DSA,+Systems,+Open+Source;⚔️+Bravery+Before+Comfort;🔥+One+Commit+Closer+to+Mastery" />
