@@ -1,6 +1,11 @@
 <div align="center">
 <img src="banner.png" width="100%">
 </div>
+<div align="center">
+
+<img src="https://media.tenor.com/6xKJ3BvZsJ4AAAAi/sparkles-stars.gif" width="200"/>
+
+</div>
 
 <div align="center">
 
@@ -11,7 +16,9 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+
+✨ ─────────────── ⚡ MAGIC BARRIER ⚡ ─────────────── ✨
+
 </div>
 
 <img align="right" width="360" src="https://media.tenor.com/jYVZ2U3W2tAAAAAC/harry-potter-spell.gif"/>
@@ -41,7 +48,9 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
+
+✨ ─────────────── ⚡ MAGIC BARRIER ⚡ ─────────────── ✨
+
 </div>
 
 ## 🔥 Wizarding Network
