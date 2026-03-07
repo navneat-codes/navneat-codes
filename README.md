@@ -200,7 +200,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/slytherin-snake.svg)
 
 </div>
 
