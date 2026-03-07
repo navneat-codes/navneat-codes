@@ -1,11 +1,9 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/navneat-codes/navneat-codes/main/banner.png" width="100%" />
-
+<img src="banner.png" width="100%">
 </div>
+
 <div align="center">
-  
-<!-- ✨ MAGIC TYPING SPELL -->
+
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3200&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🦁+Proud+Gryffindor;🧙‍♂️+B.Tech+CSE+(AI)+Student;📜+Learning+DSA,+Systems,+Open+Source;⚔️+Bravery+Before+Comfort;🔥+One+Commit+Closer+to+Mastery" />
 </a>
@@ -24,47 +22,40 @@
 **🏰 House**         : Gryffindor  
 **🌍 Origin**        : India  
 **🪄 GitHub Alias**  : `navneat-codes`  
-**📜 Status**       : Active Learner  
+**📜 Status**        : Active Learner  
 
-**🎓 University**   : Ajeenkya DY Patil University  
-**📖 Degree**       : B.Tech  
-**🧠 Discipline**   : Computer Science & Engineering (AI)  
+**🎓 University**    : Ajeenkya DY Patil University  
+**📖 Degree**        : B.Tech  
+**🧠 Discipline**    : Computer Science & Engineering (AI)  
 
-**⚔️ Traits**       : Courageous • Curious • Persistent  
-**🛤️ Path**         : Open Source • Full Stack • Systems  
+**⚔️ Traits**        : Courageous • Curious • Persistent  
+**🛤️ Path**          : Open Source • Full Stack • Systems  
 
 > ### 🦁 Gryffindor Creed  
 > *“It takes a great deal of bravery to stand up to bugs, but just as much to stand up to your own code.”*
 
 <br clear="right"/>
+
 <div align="center">
-
 ✨ ───────────────────────── ⚡ ───────────────────────── ✨
-
 </div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=ffcc33" />
 </div>
 
 ## 🔥 Wizarding Network
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/navneet-singh7307/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Hogwarts%20Network-b11226?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hogwarts%20Network-b11226?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=ff8c1a" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ff8c1a" />
 </div>
 
 ## ⚔️ Wizard Training
@@ -74,16 +65,14 @@
 ⚡ Exploring **Open Source Contributions**  
 🏗️ Building **Full Stack Applications**
 
-## 📚 Spellbook of Mastery
+---
+
+# 📚 Spellbook of Mastery
 ### 🪄 Arcane Technologies I Practice
 
-<div align="center">
+---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
-</div>
-
-### 🧠 Core Languages
+## 🧠 Core Languages
 
 <table align="center">
 <tr>
@@ -105,13 +94,10 @@
 
 </tr>
 </table>
-<br>
 
-<hr style="border:0.6px solid #30363d; width:80%;">
+---
 
-<br>
-
-### 🎨 Frontend Enchantments
+## 🎨 Frontend Enchantments
 
 <table align="center">
 <tr>
@@ -138,13 +124,10 @@
 
 </tr>
 </table>
-<br>
 
-<hr style="border:0.6px solid #30363d; width:80%;">
+---
 
-<br>
-
-### 🏰 Backend & Ancient Tomes
+## 🏰 Backend & Ancient Tomes
 
 <table align="center">
 <tr>
@@ -166,13 +149,10 @@
 
 </tr>
 </table>
-<br>
 
-<hr style="border:0.6px solid #30363d; width:80%;">
+---
 
-<br>
-
-### 🧪 Tools & Potions
+## 🧪 Tools & Potions
 
 <table align="center">
 <tr>
@@ -190,20 +170,9 @@
 </tr>
 </table>
 
+---
 
-</div>
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=ffc500" />
-</div>
-
-
-## 📊 Gryffindor Activity Chronicle
+# 📊 Gryffindor Activity Chronicle
 
 <div align="center">
 
@@ -216,9 +185,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
-</div>
+---
 
 ## 🐍 Nagini Devours My Commits
 
@@ -228,7 +195,10 @@
 
 </div>
 
-## 🏰 Wisdom from the Great Hall
+---
+
+# 🏰 Wisdom from the Great Hall
+
 > **🧙‍♂️ Albus Dumbledore**  
 > *“It is our choices, far more than our abilities, that define our codebases.”*
 
@@ -244,11 +214,9 @@
 > **🖤 Severus Snape**  
 > *“Control your variables. Discipline your logic.”*
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ffcc33" />
-</div>
+---
 
-## ⚡ The Beginning of the Legend
+# ⚡ The Beginning of the Legend
 
 🕯️ The spells will sharpen.  
 📚 The knowledge will deepen.  
