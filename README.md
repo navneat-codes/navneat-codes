@@ -1,18 +1,19 @@
 <div align="center">
-<img src="banner.png" width="100%">
-</div>
-<div align="center">
-
-<img src="https://media.tenor.com/6xKJ3BvZsJ4AAAAi/sparkles-stars.gif" width="200"/>
-
+  <img src="banner.png" width="100%">
 </div>
 
 <div align="center">
+  <img src="https://media.tenor.com/yvQ6F3G3g9AAAAAC/harry-potter-golden-snitch.gif" width="120"/>
+</div>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3200&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🦁+Proud+Gryffindor;🧙‍♂️+B.Tech+CSE+(AI)+Student;📜+Learning+DSA,+Systems,+Open+Source;⚔️+Bravery+Before+Comfort;🔥+One+Commit+Closer+to+Mastery" />
-</a>
+<div align="center">
+  <img src="https://media.tenor.com/6xKJ3BvZsJ4AAAAi/sparkles-stars.gif" width="200"/>
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3200&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🦁+Proud+Gryffindor;🎓+B.Tech+CSE+(AI)+Student;📜+Learning+DSA,+Systems,+Open+Source;⚔️+Bravery+Before+Comfort;🔥+One+Commit+Closer+to+Mastery"/>
+  </a>
 </div>
 
 <div align="center">
