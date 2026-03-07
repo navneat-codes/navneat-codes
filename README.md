@@ -197,11 +197,13 @@
 
 ---
 
-## 🐍 Nagini Devours My Commits
+## 🐍 Parseltongue Chronicle
+
+> *"The Dark Lord speaks Parseltongue… and so does this repository."*
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/slytherin-snake.svg)
+![Parseltongue Snake](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/parseltongue-snake.svg)
 
 </div>
 
