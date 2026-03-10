@@ -199,13 +199,13 @@
 
 ## 🐍 Parseltongue Chronicle
 
-> *"The Dark Lord speaks Parseltongue… and so does this repository."*
-
 <div align="center">
 
-![Parseltongue Snake](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/parseltongue-snake.svg)
+![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/slytherin-snake-dark.svg)
 
 </div>
+
+> *"The Dark Lord speaks Parseltongue... and so does this repository."*
 
 ---
 
