@@ -197,15 +197,15 @@
 
 ---
 
-## 🐍 Parseltongue Chronicle
+## 🐍 Basilisk Devours My Commits
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/slytherin-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/basilisk-snake-dark.svg)
 
 </div>
 
-> *"The Dark Lord speaks Parseltongue... and so does this repository."*
+> *"The Basilisk awakens… and devours every commit in its path."*
 
 ---
 
