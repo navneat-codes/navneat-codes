@@ -201,7 +201,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/basilisk-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/dist/parseltongue-snake.svg)
 
 </div>
 
