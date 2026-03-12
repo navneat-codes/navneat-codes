@@ -11,9 +11,11 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3200&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🦁+Proud+Gryffindor;🎓+B.Tech+CSE+(AI)+Student;📜+Learning+DSA,+Systems,+Open+Source;⚔️+Bravery+Before+Comfort;🔥+One+Commit+Closer+to+Mastery"/>
-  </a>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3200&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🦁+Proud+Gryffindor;🎓+B.Tech+CSE+(AI)+Student;📜+Learning+DSA,+Systems,+Open+Source;⚔️+Bravery+Before+Comfort;🔥+One+Commit+Closer+to+Mastery"/>
+</a>
+
 </div>
 
 <div align="center">
@@ -24,29 +26,25 @@
 
 <img align="right" width="360" src="https://media.tenor.com/jYVZ2U3W2tAAAAAC/harry-potter-spell.gif"/>
 
-## 📜 Gryffindor Scroll of Identity
+# 📜 Gryffindor Scroll of Identity
 
-**🧙‍♂️ Name**        : Navneet Singh  
-**🏰 House**         : Gryffindor  
-**🌍 Origin**        : India  
-**🪄 GitHub Alias**  : `navneat-codes`  
-**📜 Status**        : Active Learner  
+**🧙‍♂️ Name:** Navneet Singh  
+**🏰 House:** Gryffindor  
+**🌍 Origin:** India  
+**🪄 GitHub Alias:** `navneat-codes`  
+**📜 Status:** Active Learner  
 
-**🎓 University**    : Ajeenkya DY Patil University  
-**📖 Degree**        : B.Tech  
-**🧠 Discipline**    : Computer Science & Engineering (AI)  
+**🎓 University:** Ajeenkya DY Patil University  
+**📖 Degree:** B.Tech  
+**🧠 Discipline:** Computer Science & Engineering (AI)
 
-**⚔️ Traits**        : Courageous • Curious • Persistent  
-**🛤️ Path**          : Open Source • Full Stack • Systems  
+**⚔️ Traits:** Courageous • Curious • Persistent  
+**🛤️ Path:** Open Source • Full Stack • Systems
 
-> ### 🦁 Gryffindor Creed  
+> ### 🦁 Gryffindor Creed
 > *“It takes a great deal of bravery to stand up to bugs, but just as much to stand up to your own code.”*
 
 <br clear="right"/>
-
-<div align="center">
-✨ ───────────────────────── ⚡ ───────────────────────── ✨
-</div>
 
 <div align="center">
 
@@ -54,11 +52,11 @@
 
 </div>
 
-## 🔥 Wizarding Network
+# 🔥 Wizarding Network
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/navneet-singh7307/" target="_blank">
+<a href="https://www.linkedin.com/in/navneet-singh7307/">
 <img src="https://img.shields.io/badge/LinkedIn-Hogwarts%20Network-b11226?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -68,7 +66,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ff8c1a" />
 </div>
 
-## ⚔️ Wizard Training
+# ⚔️ Wizard Training
 
 📖 Mastering **Data Structures & Algorithms**  
 🪄 Learning **Django & Backend Systems**  
@@ -79,8 +77,6 @@
 
 # 📚 Spellbook of Mastery
 ### 🪄 Arcane Technologies I Practice
-
----
 
 ## 🧠 Core Languages
 
@@ -128,7 +124,7 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="60"/><br>
 <b>Next.js</b>
 </td>
 
@@ -186,22 +182,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navneat-codes&theme=github-dark&bg_color=0d1117&color=ffcc33&line=ff8c1a&point=ffffff&area=true&hide_border=true&custom_title=🔥%20The%20Wizard’s%20Coding%20Journey" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navneat-codes&theme=github-dark&bg_color=0d1117&color=ffcc33&line=ff8c1a&point=ffffff&area=true&hide_border=true" width="95%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=navneat-codes&show_icons=true&theme=radical&hide_border=true&title_color=ffcc33" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=navneat-codes&theme=radical&hide_border=true&ring=ffcc33&fire=ff8c1a" width="48%" />
+<img src="https://streak-stats.demolab.com?user=navneat-codes&theme=radical&hide_border=true&ring=ffcc33&fire=ff8c1a" width="48%" />
 
 </div>
 
 ---
 
-## 🐍 Basilisk Devours My Commits
+# 🐍 Basilisk Devours My Commits
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/dist/parseltongue-snake.svg)
+![snake gif](https://raw.githubusercontent.com/navneat-codes/navneat-codes/output/basilisk-snake-dark.svg)
 
 </div>
 
