@@ -10,14 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: navneat-codes
           outputs: |
-            dist/basilisk-snake.svg?color_snake=#39FF14&color_dots=#0f5132,#146c43,#198754,#20c997,#39FF14
-            dist/basilisk-snake-dark.svg?palette=github-dark&color_snake=#39FF14&color_dots=#013220,#014421,#016936,#00FF7F,#39FF14
+            dist/basilisk-snake.svg?color_snake=#39FF14&color_dots=#001a00,#003300,#006400,#00aa55,#39FF14
+            dist/basilisk-snake-dark.svg?palette=github-dark&color_snake=#39FF14&color_dots=#001a00,#003300,#006400,#00aa55,#39FF14
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
